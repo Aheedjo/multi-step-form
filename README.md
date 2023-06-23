@@ -1,9 +1,9 @@
 # multi-step-form
 
-## Link too live project
-```
+## Link to live project
+
 https://multi-step-form-2mlysvi4v-aheedjo.vercel.app/
-```
+
 
 ## Project setup
 ```
